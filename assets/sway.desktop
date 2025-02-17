@@ -1,4 +1,4 @@
 [Desktop Entry]
 Name=sway
-Exec=sway
+Exec=systemd-cat -t sway sway
 Type=Application
